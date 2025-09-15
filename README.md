@@ -16,6 +16,7 @@ Below is a list of the competitions documented in this repository, with shorts d
 - **Beyond Visible Spectrum: AI for Agriculture 2025:** Automated Crop Disease Diagnosis from Hyperspectral Imagery 4th.
 - **FlightRank 2025: Aeroclub RecSys Cup:** Personalized Flight Recommendations for Business Travelers.
 - **PHEMS Hackathon: Pediatric Sepsis Prediction:** Development of machine learning algorithms to predict pediatric sepsis in pediatric intensive care unit (PICU).
+- **Detect AI vs. Human-Generated Images:** Design machine learning models that can accurately classify images as AI-generated or human-created, while ensuring fairness and robust performance across a diverse dataset.
 
 **Remark:** Each competition calculated final rank of competition for each paticipant base on each competition hidden test dataset and the score for each participant calculated follow each competition objective (evaluation metrics).
 
